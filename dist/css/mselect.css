@@ -1,0 +1,11 @@
+.select-option{
+    width: 100%;
+}
+.select-option > a{
+    padding:0.5em;
+    display: block;
+}
+.select-option > a:hover{
+    background-color: rgba(200, 206, 200, 0.66);
+    text-decoration: none;
+}
